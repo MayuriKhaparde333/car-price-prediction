@@ -1,5 +1,3 @@
-# Car-Price-Prediction
-Machine Learning-based Car Price Prediction web app built with Python, Scikit-learn, Pandas, and Streamlit. Predicts used car selling prices based on car specifications and user inputs.
 # 🚗 Car Price Prediction using Machine Learning
 
 A Machine Learning web application that predicts the estimated selling price of a used car based on various car specifications such as brand, year, kilometers driven, fuel type, transmission, owner type, location, engine capacity, mileage, seats, and insurance.
